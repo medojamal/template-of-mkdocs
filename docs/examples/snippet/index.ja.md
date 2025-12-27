@@ -17,11 +17,11 @@ func main() {
 ### import from file
 
 ```go
---8<-- "menu1/snippet/main.go"
+--8<-- "examples/snippet/main.go"
 ```
 
 ### import from file with line range
 
 ```go
---8<-- "menu1/snippet/main.go:5:7"
+--8<-- "examples/snippet/main.go:5:7"
 ```

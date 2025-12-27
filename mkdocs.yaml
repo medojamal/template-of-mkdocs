@@ -118,13 +118,14 @@ extra:
       link: https://github.com/k7a-tomohiro/template-of-mkdocs/
 
 nav:
+  - Examples:
+      - Markdown: examples/markdown/index.md
+      - Mermaid: examples/mermaid/index.md
+      - Math: examples/math/index.md
+      - Snippet: examples/snippet/index.md
+      - Extension: examples/extension/index.md
   - Menu1:
       - menu1/index.md
-      - Markdown: menu1/markdown/index.md
-      - Mermaid: menu1/mermaid/index.md
-      - Math: menu1/math/index.md
-      - Snippet: menu1/snippet/index.md
-      - Extension: menu1/extension/index.md
   - Menu2:
       - menu2/index.md
   - Menu3:
