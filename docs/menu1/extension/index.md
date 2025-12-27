@@ -73,6 +73,87 @@ Fruit Count
     ??? danger "Nested details!"
         And more content again.
 
+## Admonitions
+
+!!! note
+
+    This is note
+
+!!! note "Custom title"
+
+    This is note with custom title
+
+!!! note "Outer Note"
+
+    This is the outer note
+
+    !!! note "Inner Note"
+
+        This is the inner note
+
+!!! note ""
+
+    This is the note without title
+
+??? note
+
+    This is the collapsible note which is closed by default
+
+
+???+ note
+
+    This is the collapsible note which is open by default
+
+
+!!! note
+
+    note
+
+
+!!! abstract
+
+    abstract
+
+!!! info
+
+    info
+
+!!! tip
+
+    tip
+
+!!! success
+
+    success
+
+!!! question
+
+    question
+
+!!! warning
+
+    warning
+
+!!! failure
+
+    failure
+
+!!! danger
+
+    danger
+
+!!! bug
+
+    bug
+
+!!! example
+
+    example
+
+!!! quote
+
+    quote
+
 ## emoji
 
 :smile: :heart: :thumbsup:
@@ -93,3 +174,65 @@ Fruit Count
 
     - list item a
     - list item b
+
+## Grids
+
+<div class="grid cards" markdown>
+
+- Card 1
+- Card 2
+- Card 3
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   Title 1
+
+    ---
+
+    Card 1
+
+-   Title 2
+
+    ---
+
+    Card 2
+
+-   Title 3
+
+    ---
+
+    Card 3
+
+</div>
+
+<div class="grid" markdown>
+
+=== "Unordered list"
+
+    * item 1
+    * item 2
+    * item 3
+
+=== "Ordered list"
+
+    1. item 1
+    2. item 2
+    3. item 3
+
+``` title="Content tabs"
+=== "Unordered list"
+
+    * item 1
+    * item 2
+    * item 3
+
+=== "Ordered list"
+
+    1. item 1
+    2. item 2
+    3. item 3
+```
+
+</div>

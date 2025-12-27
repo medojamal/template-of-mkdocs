@@ -81,6 +81,7 @@ markdown_extensions:
   - smarty
   - admonition
   - meta
+  - md_in_html
   - toc:
       permalink: true
       title: Table of Contents
