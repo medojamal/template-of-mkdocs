@@ -129,3 +129,10 @@ https://www.google.com/
 ## Images
 
 ![Minion](https://octodex.github.com/images/minion.png)
+/// caption
+Minion
+///
+
+With styles `{ style="max-width:600px; display:block; margin:auto;" }`.
+
+![Minion](https://octodex.github.com/images/minion.png){ style="max-width:600px; display:block; margin:auto;" }
